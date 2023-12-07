@@ -1,2 +1,3 @@
 # Cool
 This is my frist Git repository...
+Author -- Sksharma
